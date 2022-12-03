@@ -1,7 +1,7 @@
 /*
  * Joyce Aills
  * November 22, 2022
-hello
+
 */
 
 import java.util.Scanner;
